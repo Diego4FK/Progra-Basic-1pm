@@ -36,13 +36,14 @@ Respuesta: b)44 porque el la variable ya esta definida como la suma del numero q
 
 8-Explica cada uno de los siguientes conceptos usando un ejemplo de una capacidad
 humana-
-1. Unidad central de procesamiento:
-2. Memoria principal:
-3. Memoria secundaria:
-4. Dispositivos de entrada:
-5. Dispositivos de salida:
+1. Unidad central de procesamiento:Es el "cerebro" de la computadora, responsable de interpretar y ejecutar instrucciones.
+2. Memoria principal:La CPU sería equivalente al cerebro y su capacidad de razonamiento.
+3. Memoria secundaria:La memoria principal se asemeja a la memoria de corto plazo.
+4. Dispositivos de entrada: Los sentidos, ya que nos permiten percibir cosas del exterior
+5. Dispositivos de salida: Nuestras acciones y expresiones que usamos para comunicarnos
 
-9-¿Cómo puedes corregir un “Error de sintaxis”?
+9-¿Cómo puedes corregir un “Error de sintaxis”? Python señala donde violaste las reglas gramaticalesy tu tienes que ir 
+manualmente a corregir la linea de codigo
 
 
 '''
