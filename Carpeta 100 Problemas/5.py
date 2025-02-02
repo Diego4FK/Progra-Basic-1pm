@@ -1,9 +1,6 @@
 n=int(input("Ingrese el numero del que desea saber si es primo o no: "))
 m=2
 
-if n==2:
-   print("Su numero es primo")
-
 while m<n:
    n % m
    
@@ -13,7 +10,7 @@ while m<n:
    
    m=m+1
    
-if m==n:
+if m==n or n==2:
    print("su numero es primo")    
 
 
