@@ -8,3 +8,5 @@ tiempo = float(input("Ingresa el tiempo: "))
 
 monto_final = interes_compuesto(capital, tasa, tiempo)
 print(f"\nEl monto final después de {tiempo} periodos será: {monto_final:.2f}")
+
+

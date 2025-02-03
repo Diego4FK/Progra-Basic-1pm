@@ -11,4 +11,4 @@ print("Multiplicacion", a*b)
 if b!=0 :
    print("División", a/b)
 
-
+#Trate de que esto fuera de una manera un poco mejorada y que no soltara un error matematico si introducias un 0, por eso se utilizaron los if

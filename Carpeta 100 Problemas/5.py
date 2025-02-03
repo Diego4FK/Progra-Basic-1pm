@@ -17,6 +17,8 @@ if n>1:
 if n==1:
    print("Su numero no es primo")
 
+#Usamos un while para que se pudiera verificar de una forma muy primitiva si el numero tenia mas divisores y no tener que hacerlo uno por uno
+#el % es para obtener su residuo
 
   
 
